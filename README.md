@@ -37,10 +37,16 @@ Soy un desarrollador full stack apasionado por crear aplicaciones web escalables
 
 ## 📫 ¡Conéctate conmigo!
 
-<p align="center">
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alberto-calero-castillo-405373257/)
 
-  [![Correo](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:albertocctrabajo@gmail.com)
+
+<p align="center">
+
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alberto-calero-castillo-405373257/)
+
+
+
+  [![Correo](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:albertocctrabajo@gmail.com)
+
 </p>
 ---
 
