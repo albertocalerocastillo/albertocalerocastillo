@@ -50,4 +50,4 @@ Soy un desarrollador full stack apasionado por crear aplicaciones web escalables
 </p>
 ---
 
-¡Gracias por visitar mi perfil! 🚀 😄
+¡Gracias por visitar mi perfil! 🚀
