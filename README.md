@@ -24,7 +24,7 @@ Soy un desarrollador full stack apasionado por crear aplicaciones web escalables
   <img src="https://img.shields.io/badge/-Styled%20Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
   <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" /> <p align="center">
 </p>
-  
+
 ---
  
 ## 📈 GitHub Stats
