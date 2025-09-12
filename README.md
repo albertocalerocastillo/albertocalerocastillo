@@ -28,6 +28,7 @@
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="expressjs"/> </a> 
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="csharp"/> </a> 
   <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="laravel"/> </a> 
+  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php"/> </a>
 </p>
 
 ### 🔹 Bases de datos & Testing
@@ -35,6 +36,13 @@
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"/> </a> 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white" alt="sql"/> </a> 
   <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-Testing-15C213?style=for-the-badge&logo=jest&logoColor=white" alt="testing"/> </a> 
+</p>
+
+### 🔹 Control de Versiones y DevOps
+<p align="left">
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git"/> </a>
+  <a href="https://github.com/features/actions" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="github-actions"/> </a>
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="aws"/> </a>
 </p>
 
 ---
