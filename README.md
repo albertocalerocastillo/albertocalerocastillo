@@ -169,10 +169,13 @@ const alberto = {
 
 <br/>
 
+<!-- ====== FOOTER CON WAVE ANIMADO ====== -->
 <div align="center">
 
 ### ✨ *"El mejor código no es el más complejo, sino el más claro."* ✨
 
 **Gracias por visitar mi perfil. Siempre abierto a nuevos retos y colaboraciones 🚀**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer" width="100%"/>
 
 </div>
