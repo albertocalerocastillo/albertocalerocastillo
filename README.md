@@ -1,12 +1,7 @@
-<!-- ====== BANNER ANIMADO ====== -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Alberto%20Calero&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20React%20%26%20C%23&descAlignY=58&descSize=18" width="100%"/>
-</div>
-
-<!-- ====== TYPING ANIMADO ====== -->
+<!-- ====== TYPING ANIMADO COMO HEADER ====== -->
 <div align="center">
   <a href="https://github.com/albertocalerocastillo">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=%F0%9F%91%8B+%C2%A1Hola!+Soy+Alberto+Calero;%F0%9F%9A%80+Full+Stack+Developer;%E2%9A%9B%EF%B8%8F+React+%26+C%23+Developer;%F0%9F%92%BB+Apasionado+por+el+c%C3%B3digo+limpio;%F0%9F%8C%B1+Siempre+aprendiendo+algo+nuevo" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=750&height=70&lines=%F0%9F%91%8B+%C2%A1Hola!+Soy+Alberto+Calero;%F0%9F%9A%80+Full+Stack+Developer;%E2%9A%9B%EF%B8%8F+React+%26+C%23+Developer;%F0%9F%92%BB+C%C3%B3digo+limpio+y+escalable;%F0%9F%8C%B1+Siempre+aprendiendo" alt="Typing SVG" />
   </a>
 </div>
 
@@ -20,7 +15,6 @@
 
 <br/>
 
-<!-- ====== DIVISOR ANIMADO ====== -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
 ## 🧑‍💻 Sobre mí
@@ -68,7 +62,6 @@ const alberto = {
 
 <br/><br/>
 
-<!-- Iconos animados de React y C# como protagonistas -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="60" height="60" alt="React" />
 &nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="60" height="60" alt="C#" />
@@ -113,19 +106,20 @@ const alberto = {
 
 ## 📊 Estadísticas de GitHub
 
+<!-- Estas imágenes se generan automáticamente en TU propio repo (nunca fallan) -->
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=albertocalerocastillo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=albertocalerocastillo&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" />
+<img src="https://raw.githubusercontent.com/albertocalerocastillo/albertocalerocastillo/main/profile-summary-card-output/tokyonight/0-profile-details.svg" />
+
+<img src="https://raw.githubusercontent.com/albertocalerocastillo/albertocalerocastillo/main/profile-summary-card-output/tokyonight/3-stats.svg" width="48%" />
+<img src="https://raw.githubusercontent.com/albertocalerocastillo/albertocalerocastillo/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="48%" />
+
+<img src="https://raw.githubusercontent.com/albertocalerocastillo/albertocalerocastillo/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="48%" />
+<img src="https://raw.githubusercontent.com/albertocalerocastillo/albertocalerocastillo/main/profile-summary-card-output/tokyonight/4-productive-time.svg" width="48%" />
 
 <br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=albertocalerocastillo&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-<br/><br/>
-
-<!-- Gráfica de actividad animada -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=albertocalerocastillo&theme=tokyo-night&hide_border=true&area=true&custom_title=Mi%20actividad%20en%20el%20%C3%BAltimo%20a%C3%B1o" width="100%" />
 
 <br/><br/>
 
@@ -175,13 +169,10 @@ const alberto = {
 
 <br/>
 
-<!-- ====== WAVE FOOTER ANIMADO ====== -->
 <div align="center">
 
 ### ✨ *"El mejor código no es el más complejo, sino el más claro."* ✨
 
 **Gracias por visitar mi perfil. Siempre abierto a nuevos retos y colaboraciones 🚀**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer" width="100%"/>
 
 </div>
