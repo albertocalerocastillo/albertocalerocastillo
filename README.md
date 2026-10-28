@@ -29,7 +29,7 @@ const alberto = {
   base: "Sevilla, España 🇪🇸",
   diaADia: ["React", "TypeScript", "C# / .NET"],
   proyectosPropios: ["React 19", "Vite", "Tailwind CSS", "Supabase", "Stripe", "Motion"],
-  formacion: ["Técnico Superior en DAM", "Bootcamp Full Stack · OXYGEN Academy"],
+  formacion: ["Técnico Superior en DAM", "Training React Full Stack · OXYGEN"],
   aprendiendo: ["Clean Architecture en .NET", "Diseño de APIs", "AWS"],
   meImporta: ["rendimiento", "SEO", "accesibilidad AA", "seguridad", "código que se entiende"],
 };
@@ -108,8 +108,8 @@ Web de una **asesoría online de nutrición y entrenamiento**. Es una SPA de Rea
 </tr>
 </table>
 
-<!-- ═══════════════════════════ BOOTCAMP ═══════════════════════════ -->
-## 🎓 Bootcamp Full Stack · OXYGEN Academy
+<!-- ═══════════════════════════ TRAINING ═══════════════════════════ -->
+## 🎓 Training React Full Stack · OXYGEN
 
 Formación intensiva por *sprints*: cada uno, un proyecto completo con su stack.
 
