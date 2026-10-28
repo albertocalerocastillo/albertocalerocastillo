@@ -29,7 +29,7 @@ const alberto = {
   base: "Sevilla, España 🇪🇸",
   diaADia: ["React", "TypeScript", "C# / .NET"],
   proyectosPropios: ["React 19", "Vite", "Tailwind CSS", "Supabase", "Stripe", "Motion"],
-  formacion: ["Técnico Superior en DAM", "Training React Full Stack · OXYGEN"],
+  formacion: ["Técnico Superior en DAM", "Training React Full Stack · OXYGEN Academy"],
   aprendiendo: ["Clean Architecture en .NET", "Diseño de APIs", "AWS"],
   meImporta: ["rendimiento", "SEO", "accesibilidad AA", "seguridad", "código que se entiende"],
 };
@@ -109,7 +109,7 @@ Web de una **asesoría online de nutrición y entrenamiento**. Es una SPA de Rea
 </table>
 
 <!-- ═══════════════════════════ TRAINING ═══════════════════════════ -->
-## 🎓 Training React Full Stack · OXYGEN
+## 🎓 Training React Full Stack · OXYGEN Academy
 
 Formación intensiva por *sprints*: cada uno, un proyecto completo con su stack.
 
